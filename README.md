@@ -3,7 +3,7 @@
 This is my personal portfolio hosted using GitHub Pages.
 
 ## Live Site
-https://username.github.io
+https://taimurwaseem.github.io
 
 ## Technologies Used
 - HTML
